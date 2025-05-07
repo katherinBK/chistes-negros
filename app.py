@@ -7,11 +7,11 @@ app = Flask(__name__)
 chistes = {
     "mujeres": [
         {"id": 1, "capi machista": "capitan america luego de ser descongelado y ver como las mujeres hablan pedir permiso", "chiste": "un chiste"},
-        {"id": 2, "NenaSaludando": "porque la niña se cayo de la hamaca? porque no tenia brazos xdddd", "abuelita": "persona1:tu abuela es abuelita?. persona2:no porque?.... persona1:porque la vi debajo de un camion"}
+        {"id": 2, "NenaSaludando": "porque la niña se cayo de la hamaca? porque no tenia brazos xdddd", "abuelita": "persona1:tu abuelita es mecanico?. persona2:no porque?.... persona1:porque la vi debajo de un camion"}
         {"id": 2, "Coches": "una mujer luego de tener un gran dia: Muy bien ire a chocar con el auto", "Ella e callaita": "mama en la escuela me dicen guitarra.. porque me toca el profe de musica"}
     ],
     "gordos": [
-        {"id": 1, "titulo": "PROF FABIAN GORDASO SIMP", "chiste": "un chiste"},
+        {"id": 1, "titulo": "", "chiste": "un chiste"},
         {"id": 2, "titulo": "ola soy una pelota.", "chiste": "otro chiste"}
     ],
     "negros": [
